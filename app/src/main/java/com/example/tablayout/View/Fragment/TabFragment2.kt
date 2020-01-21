@@ -1,4 +1,4 @@
-package com.example.tablayout
+package com.example.tablayout.View.Fragment
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -8,6 +8,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import androidx.fragment.app.FragmentPagerAdapter
 import androidx.viewpager.widget.ViewPager
+import com.example.tablayout.R
 import com.google.android.material.tabs.TabLayout
 
 class TabFragment2 : Fragment() {
